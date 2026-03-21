@@ -1,0 +1,2 @@
+device,precision,recall_at_1,recall_at_5
+cuda,FP32,0.5109999775886536,0.8169999718666077
