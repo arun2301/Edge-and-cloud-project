@@ -1,8 +1,8 @@
 #!/bin/bash
  
 OUTPUT="../results/results.csv"
-ANNOTATIONS="../../data/annotations/captions_val2017.json"
-IMAGES_DIR="../../data/val2017"
+ANNOTATIONS="/ssd/IISC/Sem5_Jan_2026/Edge_Cloud_Computing/Project/data/annotations/captions_val2017.json"
+IMAGES_DIR="/ssd/IISC/Sem5_Jan_2026/Edge_Cloud_Computing/Project/data/val2017"
  
 # Remove old results to start fresh
 rm -f "$OUTPUT"
